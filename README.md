@@ -18,7 +18,7 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/pedro-vin%C3%ADcius-fraga-6146711ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/pedrovinis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
    ![Snake animation](https://github.com/pedrovinis/pedrovinis/blob/output/github-contribution-grid-snake.svg)
